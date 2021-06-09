@@ -5,6 +5,8 @@ PrefixSpan algorithm implementation using Python.
 
 This simple python script **does not rely on any other third-party libraries**. Just confirm that your environment is **Python 3**.
 
+You can use included dataset "paths_finished.tsv" as input data.
+
 ## Simple Demo
 ```python
 sample_data = [
